@@ -1,0 +1,2 @@
+- work out correct and optimal code in JS and SCSS
+- reference pens and articles
